@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="1"/>
+	<item key="GitSelectRepositoryPage.lastRepository" value="C:\Users\User\git\example\.git"/>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/Prashanti770/example.git"/>
+		<item value="https://github.com/Prashanti770/selenium1.git"/>
+		<item value="https://github.com/Prashanti770/SelelniumOJT.git"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="Prashanti770 &lt;prashanti64m@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Prashanti770 &lt;prashanti64m@gmail.com&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="true"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Prashanti\example\example\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\User\git\repository\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\Users\User\git\repository\example\example\.git">
+			<item value="false"/>
+			<item value="User &lt;User@ITCRATS-LP-59&gt;"/>
+			<item value="commit first&#x0D;&#x0A;"/>
+			<item value="User &lt;User@ITCRATS-LP-59&gt;"/>
+			<item value="0000000000000000000000000000000000000000"/>
+			<item value="0"/>
+			<item value="false"/>
+			<item value=""/>
+		</list>
+		<list key="C:\Users\User\eclipse-workspace\example\.git">
+			<item value="empty"/>
+		</list>
+	</section>
+	<section name="GitImportWizard">
+		<item key="GitProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
+	</section>
+	<section name="GitCommitSearchPage">
+		<item key="HISTORY_SIZE" value="0"/>
+	</section>
+</section>

@@ -1,0 +1,24 @@
+package feb13;
+//Class with abstract and non abstract methods
+
+class Activity{
+	abstract public void run();
+	public void details() {
+		System.out.println("Activity details");
+	}
+}
+
+class Human extends Activity{
+	abstract public void run() {
+		System.out.println("Human cna run");
+	}
+}
+
+public class Abstractclass2 {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
